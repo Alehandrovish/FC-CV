@@ -23,7 +23,7 @@ h2{
     font-weight: normal;
     color: #2a4f72;
 }
-section{
+section.contacts{
     display: inline-block;
     width: 45%;
 }
@@ -33,4 +33,24 @@ span{
 a{
     text-decoration: none;
     margin: 15px 5px;
+}
+h3{
+    color: #2a4f72;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #367ab9;
+}
+section.body_part{
+    font-size: 0;
+}
+section.body_part span, section{
+   display: inline-block;
+   font-size: initial;
+}
+section.body_part span{
+    vertical-align: top;
+    width: 30%;
+}
+section.body_part section{
+    margin: 0;
+    width: 70%;
 }
