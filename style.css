@@ -12,20 +12,20 @@ body{
     font-size: 16px; 
 }
 body * {
-    margin: 15px 0;
+    margin: 10px 0;
     text-align: justify;
 }
 h1{
     font-weight: bold;
-    color: rgb(67, 67, 255);
+    color: #2a4f72;
 }
 h2{
     font-weight: normal;
-    color: rgb(67, 67, 255);
+    color: #2a4f72;
 }
 section{
     display: inline-block;
-    width: 40%;
+    width: 45%;
 }
 span{
     font-weight: bold;
