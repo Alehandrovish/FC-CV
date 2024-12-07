@@ -59,3 +59,12 @@ section.body_part section{
 nav{
     font-style: italic;
 }
+li{
+    font-style: initial;
+}
+.content_skill{
+    padding: 0 0 0 15%;
+}
+.content_skill li {
+    list-style: none;
+}
