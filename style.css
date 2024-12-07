@@ -54,3 +54,6 @@ section.body_part section{
     margin: 0;
     width: 70%;
 }
+nav{
+    font-style: italic;
+}
