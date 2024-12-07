@@ -24,7 +24,7 @@ h2{
     font-weight: normal;
     color: #2a4f72;
 }
-section.contacts{
+div.contacts{
     display: inline-block;
     width: 45%;
 }
@@ -40,19 +40,19 @@ h3{
     padding-bottom: 10px;
     border-bottom: 2px solid #367ab9;
 }
-section.body_part{
+div.body_part{
     font-size: 0;
     width: 100%;
 }
-section.body_part span, section{
+div.body_part span, div{
    display: inline-block;
    font-size: initial;
 }
-section.body_part span{
+div.body_part span{
     vertical-align: top;
     width: 15%;
 }
-section.body_part section{
+div.body_part div{
     margin: 0;
     width: 70%;
 }
@@ -61,6 +61,7 @@ nav{
 }
 li{
     font-style: initial;
+    margin-left: 15px;
 }
 .content_skill{
     padding: 0 0 0 15%;
