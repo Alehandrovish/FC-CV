@@ -38,21 +38,22 @@ h3{
     padding-bottom: 10px;
     border-bottom: 2px solid #367ab9;
 }
+.info_block{
+    margin: 15px 0;
+}
 .info_container{
     font-size: 0;
 }
 .info_date, .info_content{
     display: inline-block;
+    font-size: initial;
 }
-
 .info_date{
     width: 10%;
-    font-size: initial;
     vertical-align: top;
 }
 .info_content{
     width: 90%;
-    font-size: initial;
     padding: 0 15px;
     margin: 0;
 }
